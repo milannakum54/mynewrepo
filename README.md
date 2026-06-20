@@ -1,0 +1,2 @@
+# mynewrepo
+Learnig Git
